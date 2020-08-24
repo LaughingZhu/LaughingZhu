@@ -4,3 +4,6 @@
 <a href="https://github.com/LaughingZhu">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=BlogNext&repo=Blog_Front&show_owner" />
 </a>
+<a href="https://github.com/LaughingZhu">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaughingZhu" />
+</a>
