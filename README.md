@@ -1,5 +1,5 @@
-### Hi there 👋
-[![LaughingZhu github stats](https://github-readme-stats.vercel.app/api?username=LaughingZhu&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![LaughingZhu github stats](https://github-readme-stats.vercel.app/api?username=LaughingZhu&theme=dracula&show_icons=true&card_width=100%&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **LaughingZhu/LaughingZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
