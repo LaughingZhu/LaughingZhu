@@ -2,7 +2,7 @@ Hi 👋，我是 LaughingZhu
 
 ## 关于
 
-📛 花名  LaughingZhu
+📛 花名  LaughingZhu  
 👨‍👩‍👦‍👦 男、现居北京  
 🤲 29、热爱代码、工具、分享和写作  
 💼 先后投身于教育和音视频协作相关行业  
