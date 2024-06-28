@@ -14,4 +14,4 @@ Hi 👋，我是[LaughingZhu]
 📡 [博客](https://laughingzhu.cn/)，包含写过的所有文章  
 👨‍💻 [Github](https://github.com/LaughingZhu)，日常工作以 Github 为主  
 🎥 [抖音] 拉菲朱，偶尔会录制视频和做直播  
-📅 [DewNow Weekly](https://dev-now.vercel.app/)，开发技术周刊，每周一早上更新
+📅 [DewNow Weekly](https://devnow.laughingzhu.cn/)，开发技术周刊，每周一早上更新
