@@ -1,7 +1,7 @@
 <!--
  * @Date: 2024-09-29 12:15:11
  * @LastEditors: LaughingZhu 474268433@qq.com
- * @LastEditTime: 2024-09-29 13:45:58
+ * @LastEditTime: 2024-09-29 13:51:04
  * @Description: 
 -->
 
@@ -9,7 +9,7 @@
 
 <div align="center" width="50">
 
-<img src="./images/hello-coders-round.gif" href="https://github.com/LaughingZhu" alt="Hello Coders" width="70%"/> <br />
+<img src="./images/hello-coders.gif" href="https://github.com/LaughingZhu" alt="Hello Coders" width="70%"/> <br />
 <img src="./images/dev-working_rounded.gif?raw=true" href="https://github.com/LaughingZhu" alt="CoDiNg RocKs"  width="60%"/><br /> 
   
 <p><strong> Busy coding & Vibing to :  </strong></p>
