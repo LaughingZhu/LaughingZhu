@@ -67,4 +67,4 @@ class About extends Me {
 
 📡 [Blog](https://laughingzhu.cn/) <br />
 👨‍💻 [Github](https://github.com/LaughingZhu) <br />
-📅 [DewNow Weekly](https://devnow.laughingzhu.cn/)<br />
+📅 [DewNow Weekly](https://laughingzhu.cn/)<br />
